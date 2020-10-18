@@ -2,5 +2,5 @@
 
 ### Projects
 
-- **SDRN_01_Products Filtering (React Native)** <br/>[Repository](https://github.com/SemihDurmus/SDRN_01_Product_Filtering.git) - 
-  <img src="images/menu.png" width="400"><br/><br/><br/><br/>
+- **SDRN_01_Products Filtering (React Native)** <br/> Click for [Repository](https://github.com/SemihDurmus/SDRN_01_Product_Filtering.git) <br/>
+  <img src="img/Clarushop.gif" width="400"><br/><br/><br/><br/>
