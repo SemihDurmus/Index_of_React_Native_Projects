@@ -2,7 +2,7 @@
 
 <p align="center"> 
     <img align="center" src='logo_rn.png' height=130>
-    <h1 align="center">Index of React Native Works</h1>
+    <h1 align="center">Index of React Native Projects</h1>
 </p> 
 <br/>
   
