@@ -8,7 +8,7 @@
   
   | Project Code | Name     | Repo link                                                      |           Overview                  |
   |--------------|:--------:|:--------------------------------------------------------------:|------------------------------------:|
-  |RNSD_05     |Google Maps App<br/>Coming soon...| [Repository](https://github.com/SemihDurmus/RNSD_05_Google_Maps)||
+  |RNSD_05     |Google Maps App<br/>(Coming soon...)| [Repository](https://github.com/SemihDurmus/RNSD_05_Google_Maps)||
   |RN_06     |Live Chat App <br/>(with Firebase)| [Repository](https://github.com/SemihDurmus/RN_06_Live_Chat_Firebase)|<img src="img/login.gif" height="400"><img src="img/signup.gif" height="400"><img src="img/chat.gif" height="400">|
   |RN_04     |Job Search App| [Repository](https://github.com/SemihDurmus/RN_04_Job_Search_App)|<img src="img/jobsearch.gif" height="400">|
   |SDRN_03     |Restaurant App| [Repository](https://github.com/SemihDurmus/SDRN_03_Restaurant_App.git)|<img src="img/rest1.gif" height="400">|
