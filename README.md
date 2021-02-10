@@ -6,7 +6,7 @@
 </p> 
 <br/>
   
-  | Project Code | Name     | Repo link                                                      |           Overview                  |
+  | Project Code | Name     | Repo link                                                      |  <p align="center"> Overview</p>    |
   |--------------|:--------:|:--------------------------------------------------------------:|------------------------------------:|
   |RNSD_05     |Google Maps App<br/>(Coming soon...)| [Repository](https://github.com/SemihDurmus/RNSD_05_Google_Maps)||
   |RN_06     |Live Chat App <br/>(with Firebase)| [Repository](https://github.com/SemihDurmus/RN_06_Live_Chat_Firebase)|<img src="img/login.gif" height="400"><img src="img/signup.gif" height="400"><img src="img/chat.gif" height="400">|
